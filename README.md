@@ -16,7 +16,7 @@ To organise and manage data R studio was chosen as the main tool. After regulari
 In this phase, queries were created to uncover trends that were highlighted in the data visualisations.
 
 ### 5. Share Phase
-Visualisations were created using R also. You can find them here "Cyclistic visualizations .pptx"
+Visualisations were created using R also. You can find them by downloading PowerPoint - "Cyclistic visualizations .pptx"
 
 ### 6. Act Phase
-Recommendations for the marketing team based on analysis and data visualizations can be found here "Cyclistic visualizations .pptx"
+Recommendations for the marketing team based on analysis and data visualizations can be found by downloading PowerPoint - "Cyclistic visualizations .pptx"
