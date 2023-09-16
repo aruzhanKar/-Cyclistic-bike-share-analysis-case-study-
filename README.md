@@ -1,9 +1,8 @@
 # -Cyclistic-bike-share-analysis-case-study-
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
-Designing a new marketing strategy to convert casual riders into annual members for marketing team at Cyclistic.
 
 ### 1. Objective (Ask Phase)
-To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
+To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members. 
 
 ### 2. Prepare Phase
 
@@ -17,7 +16,7 @@ After regularising and importing the data, the first step was to inspect each at
 In this phase, queries were created to uncover trends that were highlighted in the data visualisations.
 
 ### 5. Share Phase
-Visualisations were created using R also. Published here _____
+Visualisations were created using R also. You can find them here "Cyclistic visualizations .pptx"
 
 ### 6. Act Phase
-Recommendation based on analysis and data visualizations can be found here____
+Recommendations for the marketing team based on analysis and data visualizations can be found here "Cyclistic visualizations .pptx"
