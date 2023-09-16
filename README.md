@@ -1,6 +1,13 @@
 # Cyclistic bike share analysis case study 
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
+The scenario involves analysis of the trip data of Cyclistic bike share company.
+
+The company has two models for availing service: individual passes which are called "casual" riders and annual subscriptions called "member" riders.
+The company operates in Chicago with around 6000 bicycles at 700 stations.
+
+Maximizing the number of annual members will be key to future growth as it ensures financial sustainability and customer retention. The insights can help devise effective marketing strategies aimed to convert more casual riders into annual members.
+
 ### 1. Objective (Ask Phase)
 To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members. 
 
