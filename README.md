@@ -1,4 +1,4 @@
-# -Cyclistic-bike-share-analysis-case-study-
+# Cyclistic bike share analysis case study 
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
 ### 1. Objective (Ask Phase)
