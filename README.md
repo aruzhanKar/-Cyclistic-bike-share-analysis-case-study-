@@ -10,7 +10,7 @@ For this case study I chose 12 data files containing trip data gathered during e
 It was organised by month, and assumed to be credible since it was compiled and published by the organisation. 
 
 ### 3. Process Phase
-After regularising and importing the data, the first step was to inspect each attribute for anomalies. A new column for trip length (in minutes) was created. Any data that was unnecessary was removed. A full description of the process is described here: __________
+After regularising and importing the data, the first step was to inspect each attribute for anomalies. A new column for trip length (in minutes) was created. Any data that was unnecessary was removed. A full description of the process is described here: docs/Bike data.Rmd
 
 ### 4. Analyse Phase
 In this phase, queries were created to uncover trends that were highlighted in the data visualisations.
