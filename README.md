@@ -1,4 +1,4 @@
-# Cyclistic bike share analysis case study 
+# "Cyclistic" bike share analysis Case Study 
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
 The scenario involves analysis of the trip data of Cyclistic bike share company.
