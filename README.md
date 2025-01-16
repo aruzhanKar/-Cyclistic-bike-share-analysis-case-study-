@@ -27,3 +27,16 @@ Visualisations were created using R studio. You can find them by downloading Pow
 
 ### 6. Act Phase
 Recommendations for the marketing team based on analysis and data visualizations can be found by downloading PowerPoint - "Cyclistic visualizations .pptx"
+
+### Key Findings 
+
+1. In general, 59.7% of riders are members, and 40.3% of riders are casual users.
+2. On average, casual riders ride a bike twice longer than member riders (24.07 min and 12.67 min, respectively)
+3. For both user types the majority of rides fall into first two categories: "<12 min" and "12-20 min"
+4. Ride length for casual riders peaks mid morning through afternoon, especially between 10AM - 2PM, while for members its more consistent
+5. Members take more rides during morning (7-8am) and evening (4-6 pm) , casual total number of rides also peak from 4pm to 6pm
+6. Both users take longer rides on weekend
+7. For both user types rides peak in summer and decline in winter
+8. The most popular starting station for casual riders is Streeter Dr & Grand Ave, which is located near the park in Chicago.
+9. The top starting and ending station for member riders is Ellis Ave & 60th St which is situated within the University of Chicago
+
